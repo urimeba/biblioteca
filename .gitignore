@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+biblioteca/Apps/libros/migrations/
+
+biblioteca/Apps/mesas/migrations/
+
+biblioteca/Apps/prestamos/migrations/
+
+biblioteca/Apps/secciones/migrations/
+
+biblioteca/Apps/trabajadores/migrations/
+
+biblioteca/Apps/usuarios/migrations/
